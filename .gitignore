@@ -1,0 +1,21 @@
+# Slide deck projects (each user creates their own)
+Slides/
+
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.local
+
+# Claude Code memory (user-specific)
+.claude/projects/
